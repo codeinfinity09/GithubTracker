@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "GitHub Tracker",
+    "version": "1.0",
+    "description": "Displays GitHub repo counts, issues, and PRs.",
+    "permissions": ["storage", "activeTab", "http://localhost:3000/"],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
